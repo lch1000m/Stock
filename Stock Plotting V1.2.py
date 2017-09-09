@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# line added
+
 import pandas as pd, numpy as np
 import pandas.io.data as web
 from Stock_Class import *
